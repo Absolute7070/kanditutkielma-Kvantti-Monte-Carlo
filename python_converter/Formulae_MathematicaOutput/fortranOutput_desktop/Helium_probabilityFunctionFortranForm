@@ -1,0 +1,5 @@
+E**(-2*A3*Sqrt(x1**2 + y1**2 + z1**2) - 2*A3*Sqrt(x2**2 + y2**2 + z2**2) - 
+    (2*A2*(1 - E**
+          (-Sqrt(Abs(x1 - x2)**2 + Abs(y1 - y2)**2 + Abs(z1 - z2)**2)/
+            Sqrt(A2))))/
+     Sqrt(Abs(x1 - x2)**2 + Abs(y1 - y2)**2 + Abs(z1 - z2)**2))
